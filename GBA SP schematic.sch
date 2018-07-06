@@ -13174,7 +13174,7 @@ well why not?</text>
 <attribute name="MF" x="71.12" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 <attribute name="MPN" x="71.12" y="36.83" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
-<instance part="U$2" gate="G$1" x="210.82" y="203.2"/>
+<instance part="U$2" gate="G$1" x="237.49" y="185.42" rot="R270"/>
 <instance part="SW_L" gate="G$1" x="31.75" y="196.85" smashed="yes">
 <attribute name="NAME" x="26.162" y="201.676" size="1.778" layer="95"/>
 <attribute name="VALUE" x="33.02" y="198.882" size="1.778" layer="96"/>
@@ -13198,15 +13198,15 @@ well why not?</text>
 <instance part="SUPPLY29" gate="GND" x="19.05" y="186.69"/>
 <instance part="SUPPLY30" gate="GND" x="59.69" y="186.69"/>
 <instance part="SUPPLY78" gate="GND" x="257.81" y="167.64"/>
-<instance part="SUPPLY79" gate="GND" x="237.49" y="171.45"/>
+<instance part="SUPPLY79" gate="GND" x="237.49" y="158.75"/>
 <instance part="C30" gate="G$1" x="257.81" y="191.77">
 <attribute name="DIGIKEY" x="257.81" y="191.77" size="1.778" layer="96" display="off"/>
 <attribute name="MF" x="257.81" y="191.77" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="257.81" y="191.77" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="R37" gate="G$1" x="237.49" y="184.15" smashed="yes" rot="R270">
-<attribute name="NAME" x="238.9886" y="187.96" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="239.268" y="180.34" size="1.778" layer="96" rot="R270"/>
+<instance part="R37" gate="G$1" x="214.63" y="203.2" smashed="yes">
+<attribute name="NAME" x="210.82" y="204.6986" size="1.778" layer="95"/>
+<attribute name="VALUE" x="218.44" y="204.978" size="1.778" layer="96"/>
 </instance>
 <instance part="C31" gate="G$1" x="25.4" y="130.81">
 <attribute name="DIGIKEY" x="25.4" y="130.81" size="1.778" layer="96" display="off"/>
@@ -13587,9 +13587,9 @@ well why not?</text>
 <wire x1="152.4" y1="64.77" x2="152.4" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="R37" gate="G$1" pin="2"/>
-<wire x1="237.49" y1="179.07" x2="237.49" y2="173.99" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="POT2"/>
 <pinref part="SUPPLY79" gate="GND" pin="GND"/>
+<wire x1="237.49" y1="163.83" x2="237.49" y2="161.29" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="PWR_EN_SW" class="0">
@@ -13607,10 +13607,10 @@ well why not?</text>
 <wire x1="257.81" y1="194.31" x2="257.81" y2="203.2" width="0.1524" layer="91"/>
 <wire x1="257.81" y1="203.2" x2="237.49" y2="203.2" width="0.1524" layer="91"/>
 <label x="242.57" y="203.2" size="1.778" layer="95"/>
-<pinref part="U$2" gate="G$1" pin="POT2"/>
-<pinref part="R37" gate="G$1" pin="1"/>
-<wire x1="237.49" y1="203.2" x2="232.41" y2="203.2" width="0.1524" layer="91"/>
-<wire x1="237.49" y1="203.2" x2="237.49" y2="189.23" width="0.1524" layer="91"/>
+<pinref part="U$2" gate="G$1" pin="POT1"/>
+<wire x1="237.49" y1="201.93" x2="237.49" y2="203.2" width="0.1524" layer="91"/>
+<pinref part="R37" gate="G$1" pin="2"/>
+<wire x1="237.49" y1="203.2" x2="219.71" y2="203.2" width="0.1524" layer="91"/>
 <junction x="237.49" y="203.2"/>
 </segment>
 </net>
@@ -13641,9 +13641,9 @@ well why not?</text>
 <label x="166.37" y="137.16" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U$2" gate="G$1" pin="POT1"/>
-<wire x1="194.31" y1="203.2" x2="182.88" y2="203.2" width="0.1524" layer="91"/>
-<label x="182.88" y="203.2" size="1.778" layer="95"/>
+<pinref part="R37" gate="G$1" pin="1"/>
+<wire x1="209.55" y1="203.2" x2="193.04" y2="203.2" width="0.1524" layer="91"/>
+<label x="193.04" y="203.2" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="UP_TACT" class="0">

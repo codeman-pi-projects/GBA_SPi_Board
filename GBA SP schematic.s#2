@@ -12073,9 +12073,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MPN" value="CC0603ZRY5V9BB104"/>
 </part>
 <part name="C23" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="SUPPLY54" library="supply2" deviceset="GND" device=""/>
 <part name="C24" library="rcl" deviceset="C-US" device="0402_REAL" value="0.1uF">
@@ -12090,19 +12090,19 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </part>
 <part name="SUPPLY55" library="supply2" deviceset="GND" device=""/>
 <part name="C19" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="C20" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="C21" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="R20" library="rcl" deviceset="R-US_" device="0402_REAL" value="3.3k"/>
 <part name="SUPPLY56" library="supply2" deviceset="GND" device=""/>
@@ -12186,9 +12186,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MPN" value="ERJ-2RKF2001X"/>
 </part>
 <part name="C26" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="SUPPLY73" library="supply2" deviceset="GND" device=""/>
 <part name="R35" library="rcl" deviceset="R-US_" device="0402_REAL" value="10k"/>
@@ -12350,9 +12350,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 </part>
 <part name="SUPPLY72" library="supply2" deviceset="GND" device=""/>
 <part name="C53" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="SUPPLY77" library="supply2" deviceset="GND" device=""/>
 <part name="R54" library="rcl" deviceset="R-US_" device="0402_REAL" value="10k"/>
@@ -12445,9 +12445,9 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MPN" value="LQM2HPN2R2MG0L"/>
 </part>
 <part name="C54" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
-<attribute name="DIGIKEY" value="1276-6504-1-ND"/>
-<attribute name="MF" value="Samsung"/>
-<attribute name="MPN" value="CL10A226MPCNUBE"/>
+<attribute name="DIGIKEY" value="587-5464-1-ND"/>
+<attribute name="MF" value="Taiyo Yuden"/>
+<attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
 <part name="C62" library="rcl" deviceset="C-EU" device="C0603" value="4.7uF">
 <attribute name="DIGIKEY" value="311-1455-1-ND"/>

@@ -3149,9 +3149,9 @@ design rules under a new name.</description>
 <attribute name="NAME" x="10.127659375" y="72.515303125" size="0.6096" layer="25" rot="R315"/>
 </element>
 <element name="C27" library="rcl" package="C0603" value="4.7uF" x="20.780709375" y="67.134853125" smashed="yes" rot="MR315">
-<attribute name="MPN" value="CL10A226MPCNUBE" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
-<attribute name="MF" value="Samsung" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
-<attribute name="DIGIKEY" value="1276-6504-1-ND" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
+<attribute name="MPN" value="CC0603KRX5R6BB475" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
+<attribute name="MF" value="Yageo" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
+<attribute name="DIGIKEY" value="311-1455-1-ND" x="20.780709375" y="67.134853125" size="0.6096" layer="28" rot="MR315" display="off"/>
 <attribute name="NAME" x="20.780709375" y="68.03288125" size="0.6096" layer="26" rot="MR315"/>
 </element>
 <element name="C28" library="rcl" package="0402_REAL" value="0.1uF" x="21.2405" y="70.076065625" smashed="yes" rot="R45">
@@ -7730,8 +7730,8 @@ design rules under a new name.</description>
 <approved hash="6,1,ddb34b583ec939b5"/>
 <approved hash="6,1,e9f5edf1ca738410"/>
 <approved hash="6,1,185de2090578c2c8"/>
-<approved hash="6,1,70544c684bcc77f0"/>
 <approved hash="6,1,dd8a9785096a8d46"/>
+<approved hash="6,1,70544c684bcc77f0"/>
 <approved hash="6,1,328bd4995b2c345f"/>
 <approved hash="6,1,9b5172c19ab888ca"/>
 <approved hash="6,1,eaa6b0da9ed3c939"/>

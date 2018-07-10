@@ -12002,7 +12002,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MF" value="FTDI"/>
 <attribute name="MPN" value="FT230XQ-R"/>
 </part>
-<part name="C47" library="rcl" deviceset="C-EU" device="0402_REAL" value="0.1uF">
+<part name="C47" library="rcl" deviceset="C-US" device="0402_REAL" value="0.1uF">
 <attribute name="DIGIKEY" value="311-1343-1-ND"/>
 <attribute name="MF" value="Yageo"/>
 <attribute name="MPN" value="CC0603ZRY5V9BB104"/>
@@ -15915,10 +15915,10 @@ the UART to a point where it does not work</text>
 <attribute name="MF" x="121.92" y="91.44" size="1.778" layer="96" display="off"/>
 <attribute name="MPN" x="121.92" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
-<instance part="C47" gate="G$1" x="152.4" y="76.2" rot="R180">
-<attribute name="DIGIKEY" x="152.4" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
-<attribute name="MF" x="152.4" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
-<attribute name="MPN" x="152.4" y="76.2" size="1.778" layer="96" rot="R180" display="off"/>
+<instance part="C47" gate="G$1" x="152.4" y="77.47">
+<attribute name="DIGIKEY" x="152.4" y="77.47" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="152.4" y="77.47" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="152.4" y="77.47" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="C46" gate="G$1" x="63.5" y="48.26"/>
 <instance part="C45" gate="G$1" x="50.8" y="48.26"/>
@@ -15989,8 +15989,6 @@ the UART to a point where it does not work</text>
 <pinref part="C49" gate="G$1" pin="1"/>
 <wire x1="180.34" y1="78.74" x2="180.34" y2="76.2" width="0.1524" layer="91"/>
 <junction x="172.72" y="76.2"/>
-<pinref part="C47" gate="G$1" pin="1"/>
-<wire x1="152.4" y1="73.66" x2="152.4" y2="67.31" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="67.31" x2="172.72" y2="67.31" width="0.1524" layer="91"/>
 <wire x1="172.72" y1="67.31" x2="187.96" y2="67.31" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="67.31" x2="207.01" y2="67.31" width="0.1524" layer="91"/>
@@ -15998,6 +15996,8 @@ the UART to a point where it does not work</text>
 <junction x="172.72" y="67.31"/>
 <junction x="187.96" y="67.31"/>
 <label x="190.5" y="67.31" size="1.778" layer="95"/>
+<pinref part="C47" gate="G$1" pin="2"/>
+<wire x1="152.4" y1="72.39" x2="152.4" y2="67.31" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="J6" gate="G$1" pin="PAD"/>
@@ -16158,15 +16158,15 @@ the UART to a point where it does not work</text>
 </net>
 <net name="3V3OUT" class="0">
 <segment>
-<pinref part="C47" gate="G$1" pin="2"/>
 <pinref part="IC2" gate="G$1" pin="3V3OUT"/>
-<wire x1="152.4" y1="81.28" x2="152.4" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="83.82" x2="137.16" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="IC2" gate="G$1" pin="!RESET"/>
 <wire x1="137.16" y1="86.36" x2="152.4" y2="86.36" width="0.1524" layer="91"/>
 <wire x1="152.4" y1="86.36" x2="152.4" y2="83.82" width="0.1524" layer="91"/>
-<junction x="152.4" y="83.82"/>
 <label x="144.78" y="86.36" size="1.778" layer="95"/>
+<pinref part="C47" gate="G$1" pin="1"/>
+<wire x1="152.4" y1="83.82" x2="152.4" y2="80.01" width="0.1524" layer="91"/>
+<junction x="152.4" y="83.82"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="VCCIO"/>

@@ -11850,7 +11850,7 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MF" value="Yageo"/>
 <attribute name="MPN" value="CC0603ZRY5V9BB104"/>
 </part>
-<part name="C3" library="rcl" deviceset="C-US" device="C0805" value="22uF">
+<part name="C3" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
 <attribute name="DIGIKEY" value="587-5464-1-ND"/>
 <attribute name="MF" value="Taiyo Yuden"/>
 <attribute name="MPN" value="LMK212BBJ226MG-T"/>
@@ -11860,17 +11860,17 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <attribute name="MF" value="Yageo"/>
 <attribute name="MPN" value="CC0603ZRY5V9BB104"/>
 </part>
-<part name="C4" library="rcl" deviceset="C-US" device="C0805" value="22uF">
+<part name="C4" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
 <attribute name="DIGIKEY" value="587-5464-1-ND"/>
 <attribute name="MF" value="Taiyo Yuden"/>
 <attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
-<part name="C5" library="rcl" deviceset="C-US" device="C0805" value="22uF">
+<part name="C5" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
 <attribute name="DIGIKEY" value="587-5464-1-ND"/>
 <attribute name="MF" value="Taiyo Yuden"/>
 <attribute name="MPN" value="LMK212BBJ226MG-T"/>
 </part>
-<part name="C1" library="rcl" deviceset="C-US" device="C0805" value="22uF">
+<part name="C1" library="rcl" deviceset="C-EU" device="C0805" value="22uF">
 <attribute name="DIGIKEY" value="587-5464-1-ND"/>
 <attribute name="MF" value="Taiyo Yuden"/>
 <attribute name="MPN" value="LMK212BBJ226MG-T"/>
